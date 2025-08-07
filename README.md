@@ -8,8 +8,8 @@
 
 ## Desenvolvimento 
 
-![print inicio](static/assets/printgtmax.png)
-![print fim](static/assets/printgtm.png)
+![print inicio](assets/printgtmax.png)
+![print fim](assets/printgtm.png)
 
 ## Participações
 
