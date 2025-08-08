@@ -22,4 +22,4 @@
 [Site](https://projeto-inovar-gtmax-2024.onrender.com/) <br>
 [Protótipo](https://www.canva.com/design/DAGPQWK2Zbk/-F_48erDzhS2CUg6fJqSag/edit)
 
-<i> . ܁₊ . ܁₊ ⊹ . ܁ ⟡ ܁ . ⊹ ₊ ܁. . ܁₊ ⊹ . ܁ ⟡ ܁ . ⊹ ₊ ܁. . ܁₊ ⊹ . ܁ ⟡ ܁ . ⊹ ₊ ܁. . ܁₊ ⊹ . ܁ ⟡ ܁ . ⊹ ₊ ܁.. ܁₊ ⊹ . ܁ ⟡ ܁ . ⊹ ₊ 
+<i> . ܁₊ . ܁₊ ⊹ . ܁ ⟡ ܁ . ⊹ ₊ ܁. . ܁₊ ⊹ . ܁ ⟡ ܁ . ⊹ ₊ ܁. . ܁₊ ⊹ . ܁ ⟡ ܁ . ⊹ ₊ ܁. . ܁₊ ⊹ . ܁ ⟡ ܁ . ⊹ ₊ ܁.. ܁₊ ⊹ . ܁ ⟡ ܁ . ⊹ ₊ . ܁₊ ⊹ . ܁ ⟡ ܁ . ⊹ ₊ ܁.. ܁₊ ⊹ . ܁ ⟡ ܁ . ⊹ ₊ ܁.. ܁₊ ⊹ . ܁ ⟡ ܁ . ⊹ ₊ ܁.
