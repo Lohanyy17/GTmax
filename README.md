@@ -1,4 +1,6 @@
+<div aling="center">
 # Projeto Inovar - GTMax3d . ݁₊ ⊹ . ݁˖ . ݁
+</div>
 
 <i> O projeto foi desenvolvido no primeiro semestre de 2024 com o objetivo de criar a nova identidade de uma marca já existente, meu grupo escolheu a GTMax3D, uma empresa nacional que fabrica e revende impressoras 3D e filamentos para impressão. O site foi realizado utilizando HTML e CSS com o foco em uma das impressoras mais famosas da marca, a Impressora3D pro - core A3V3, com o fim de proporcionar uma melhor experiência para o usuário. 
 
