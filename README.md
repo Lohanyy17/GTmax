@@ -4,7 +4,7 @@
 
 ## Créditos ๋࣭⭑
 
-[GTMax3D](https://www.gtmax3d.com.br/impressora-3d-pro)
+[GTMax3D](https://www.gtmax3d.com.br/)
 
 ## Desenvolvimento ๋࣭⭑
 
