@@ -17,7 +17,7 @@
 [Maria Eduarda Gomes](https://github.com/MariaGomesR) <br>
 [Mirele Victória](https://github.com/Mvictoria218)
 
-<div align="center"> ─── ⋆⋅Links⋅⋆ ── </div>
+## ─── ⋆⋅Links⋅⋆ ── 
 
 [Site](https://projeto-inovar-gtmax-2024.onrender.com/) <br>
 [Protótipo](https://www.canva.com/design/DAGPQWK2Zbk/-F_48erDzhS2CUg6fJqSag/edit)
